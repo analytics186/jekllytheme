@@ -1,1 +1,2 @@
 theme: jeykll-theme-merlot
+@import "{{ site.theme }}";
